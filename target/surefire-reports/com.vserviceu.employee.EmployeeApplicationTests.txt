@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.vserviceu.employee.EmployeeApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.316 s -- in com.vserviceu.employee.EmployeeApplicationTests
